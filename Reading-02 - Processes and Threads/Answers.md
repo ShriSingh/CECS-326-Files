@@ -1,13 +1,16 @@
-##### Shriyansh Singh
-##### CSULB ID: 028243304
-##### Prof. Giacalone
-##### Due Date and Time: February 23rd, 2023, 11:59 PM
+#### Shriyansh Singh
+#### CSULB ID: 028243304
+#### Prof. Giacalone
+#### Due Date and Time: February 23rd, 2023, 11:59 PM
 
-## CECS 326 Reading Assignment: Processes and Threads
-### 20 points
+------------------------------------------------------------------------------------------------
+### CECS 326 Reading Assignment: Processes and Threads
+#### 20 points
 
 #### Assignment Description
 Answer the following questions from the chapter 2 reading from your text book. Be complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
+
+------------------------------------------------------------------------------------------------
 
 1. Assume that you are trying to download a large 2-GB file from the Internet. The file is available from a set of mirror servers, each of which can deliver a subset of the file’s bytes; assume that a given request specifies the starting and ending bytes of the file. Explain how you might use threads to improve the download time.
 
