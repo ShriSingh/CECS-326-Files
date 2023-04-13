@@ -3,11 +3,15 @@
 #### Prof. Giacalone
 #### CSULB ID: 028243304
 #### Due Date: February 10th, 2023, 11:59 PM
-## CECS 326 Reading Assignment: Introduction to Operating Systems
-### 20 points
 
-### Assignment Description
+---------------------------------------------------------------------------------------------
+### CECS 326 Reading Assignment: Introduction to Operating Systems
+#### 20 points
+
+#### Assignment Description
 Answer the following questions from the Chapter 1 reading from your text-book. Be thorough and complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
+
+---------------------------------------------------------------------------------------------
 
 1. What are the two main functions of an operating system?
 
